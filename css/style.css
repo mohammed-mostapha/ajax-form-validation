@@ -1,0 +1,39 @@
+body {
+    margin : 0;
+    padding : 0;
+    background : #e3e3e3 !important;
+    
+}
+
+form {
+    padding-top : 100px;
+    max-width : 400px;
+    margin : 0 auto;
+}
+
+
+.btn {
+    width : 100%;
+    font-size : 1.5rem !important;
+}
+
+.error-message {
+    max-width: fit-content;
+    margin: 0 auto;
+    margin-top : 20px;
+    font-size : 26px;
+
+
+}
+
+.form-error {
+    color : red;
+}
+
+.form-success {
+    color : green;
+}
+
+.input-error {
+    box-shadow : 0 0 5px red;
+}
